@@ -1,17 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mariia\\source\\repos\\laba1\\",
+  "WorkspaceRootPath": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E1435CB-3444-41CE-848C-011E93BD6D33}|laba1.3\\laba1.3.vcxproj|C:\\Users\\Mariia\\source\\repos\\laba1\\laba1.3\\zadacha3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{41683E59-9A3B-4E82-AF2D-099CE68C650C}|laba2.1\\laba2.1.vcxproj|C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba2.1\\zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41683E59-9A3B-4E82-AF2D-099CE68C650C}|laba2.1\\laba2.1.vcxproj|solutionrelative:laba2.1\\zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A665-AFAF-4FBA-89F9-5843858EA271}|laba2.2\\laba2.2.vcxproj|C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba2.2\\zadacha2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07D5A665-AFAF-4FBA-89F9-5843858EA271}|laba2.2\\laba2.2.vcxproj|solutionrelative:laba2.2\\zadacha2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7B2F5E-15C2-4C87-9184-F6AE92DE4E0D}|laba2.3\\laba2.3.vcxproj|C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba2.3\\zadacha3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF7B2F5E-15C2-4C87-9184-F6AE92DE4E0D}|laba2.3\\laba2.3.vcxproj|solutionrelative:laba2.3\\zadacha3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1435CB-3444-41CE-848C-011E93BD6D33}|laba1.3\\laba1.3.vcxproj|C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba1.3\\zadacha3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E1435CB-3444-41CE-848C-011E93BD6D33}|laba1.3\\laba1.3.vcxproj|solutionrelative:laba1.3\\zadacha3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8519FC4-2CE0-4FDA-8AD0-8E06E1A42199}|laba1\\laba1.vcxproj|C:\\Users\\Mariia\\source\\repos\\laba1\\laba1\\zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E8519FC4-2CE0-4FDA-8AD0-8E06E1A42199}|laba1\\laba1.vcxproj|C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba1\\zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E8519FC4-2CE0-4FDA-8AD0-8E06E1A42199}|laba1\\laba1.vcxproj|solutionrelative:laba1\\zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDF2028-211E-42B3-980A-30F0C7A50ACF}|laba1.2\\laba1.2.vcxproj|C:\\Users\\Mariia\\source\\repos\\laba1\\laba1.2\\zadacha2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7FDF2028-211E-42B3-980A-30F0C7A50ACF}|laba1.2\\laba1.2.vcxproj|C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba1.2\\zadacha2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FDF2028-211E-42B3-980A-30F0C7A50ACF}|laba1.2\\laba1.2.vcxproj|solutionrelative:laba1.2\\zadacha2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -30,37 +42,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "zadacha1.cpp",
-              "DocumentMoniker": "C:\\Users\\Mariia\\source\\repos\\laba1\\laba1\\zadacha1.cpp",
-              "RelativeDocumentMoniker": "laba1\\zadacha1.cpp",
-              "ToolTip": "C:\\Users\\Mariia\\source\\repos\\laba1\\laba1\\zadacha1.cpp",
-              "RelativeToolTip": "laba1\\zadacha1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "zadacha3.cpp",
+              "DocumentMoniker": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba2.3\\zadacha3.cpp",
+              "RelativeDocumentMoniker": "laba2.3\\zadacha3.cpp",
+              "ToolTip": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba2.3\\zadacha3.cpp",
+              "RelativeToolTip": "laba2.3\\zadacha3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:46:58.081Z",
+              "WhenOpened": "2024-10-31T14:22:20.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "zadacha2.cpp",
-              "DocumentMoniker": "C:\\Users\\Mariia\\source\\repos\\laba1\\laba1.2\\zadacha2.cpp",
-              "RelativeDocumentMoniker": "laba1.2\\zadacha2.cpp",
-              "ToolTip": "C:\\Users\\Mariia\\source\\repos\\laba1\\laba1.2\\zadacha2.cpp",
-              "RelativeToolTip": "laba1.2\\zadacha2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba2.2\\zadacha2.cpp",
+              "RelativeDocumentMoniker": "laba2.2\\zadacha2.cpp",
+              "ToolTip": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba2.2\\zadacha2.cpp",
+              "RelativeToolTip": "laba2.2\\zadacha2.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:46:44.957Z",
+              "WhenOpened": "2024-10-31T14:12:38.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "zadacha1.cpp",
+              "DocumentMoniker": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba2.1\\zadacha1.cpp",
+              "RelativeDocumentMoniker": "laba2.1\\zadacha1.cpp",
+              "ToolTip": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba2.1\\zadacha1.cpp",
+              "RelativeToolTip": "laba2.1\\zadacha1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T13:15:42.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "zadacha1.cpp",
+              "DocumentMoniker": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba1\\zadacha1.cpp",
+              "RelativeDocumentMoniker": "laba1\\zadacha1.cpp",
+              "ToolTip": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba1\\zadacha1.cpp",
+              "RelativeToolTip": "laba1\\zadacha1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:46:58.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "zadacha2.cpp",
+              "DocumentMoniker": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba1.2\\zadacha2.cpp",
+              "RelativeDocumentMoniker": "laba1.2\\zadacha2.cpp",
+              "ToolTip": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba1.2\\zadacha2.cpp",
+              "RelativeToolTip": "laba1.2\\zadacha2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:46:44.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "zadacha3.cpp",
-              "DocumentMoniker": "C:\\Users\\Mariia\\source\\repos\\laba1\\laba1.3\\zadacha3.cpp",
+              "DocumentMoniker": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba1.3\\zadacha3.cpp",
               "RelativeDocumentMoniker": "laba1.3\\zadacha3.cpp",
-              "ToolTip": "C:\\Users\\Mariia\\source\\repos\\laba1\\laba1.3\\zadacha3.cpp",
+              "ToolTip": "C:\\Users\\Mariia\\source\\repos\\laboratory\\laba1\\laba1.3\\zadacha3.cpp",
               "RelativeToolTip": "laba1.3\\zadacha3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
